@@ -12,9 +12,10 @@ A tool for using [@11ty/eleventy-img](https://github.com/11ty/eleventy-img) to p
 
 ### Options
 
-```
-widths: [600, 900, 1200, 1800], // add array of width's here, Note: 11ty-img wont upscale.
-formats: ['png', 'jpeg', 'webp', 'avif'], //
+```js
+// add array of width's you would like output (11ty-img wont upscale)
+widths: [600, 900, 1200, 1800],
+formats: ['png', 'jpeg', 'webp', 'avif'],
 ```
 
 [Full options list](https://www.11ty.dev/docs/plugins/image/#usage)

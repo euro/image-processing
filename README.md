@@ -1,4 +1,4 @@
-# image-processing
+# Process image formats and sizes
 
 A tool for using @11ty/eleventy-img to process images into different formats and sizes.
 

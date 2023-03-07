@@ -1,3 +1,4 @@
+![alt text](process-img-min.svg)
 # Process image formats and sizes
 
 A tool for using [@11ty/eleventy-img](https://github.com/11ty/eleventy-img) to process images into different formats and sizes.
